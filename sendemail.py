@@ -15,7 +15,7 @@ def send_email_fun():
     # 第三方 SMTP 服务配置
     mail_host = "smtp.163.com"  # 设置服务器
     mail_user = "test4python@163.com"  # 用户名
-    mail_pass = "qwer1234"  # 口令
+    mail_pass = "****"  # 口令
     sender = 'test4python@163.com'
     receivers = ['test4python@163.com']
     message = MIMEMultipart()
